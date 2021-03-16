@@ -20,7 +20,7 @@ vagrant up pxeclient
 
 ![Image 1](https://github.com/IvanPrivalov/HW19/blob/master/Screenshots/1.PNG)
 
-Выбираем Install System и запуститься установка Centos 7
+Выбираем Install System и запустится установка Centos 7
 
 ![Image 2](https://github.com/IvanPrivalov/HW19/blob/master/Screenshots/2.PNG)
 
